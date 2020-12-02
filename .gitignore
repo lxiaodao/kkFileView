@@ -29,3 +29,14 @@ nbdist/
 
 jodconverter-web/src/main/cache/
 jodconverter-web/src/main/file/
+jodconverter-web/.settings
+jodconverter-web/.classpath
+jodconverter-web/.project
+jodconverter-web/target/
+
+
+jodconverter-core/.settings
+jodconverter-core/.classpath
+jodconverter-core/.project
+jodconverter-core/target/
+
